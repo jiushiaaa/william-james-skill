@@ -1,0 +1,96 @@
+{
+  "id": "william-james-perspective",
+  "known_positions": [
+    {
+      "q": 1,
+      "score": 10,
+      "reason": "钟表无需看内部机件仍能经间接验证认识；假钟反例保留约束。",
+      "source": "《实用主义》第六讲；核查状态见source_audit"
+    },
+    {
+      "q": 2,
+      "score": 10,
+      "reason": "当前无用不撤销真知识；知识储存与未来条件区分。",
+      "source": "《实用主义》第六讲；核查状态见source_audit"
+    },
+    {
+      "q": 3,
+      "score": 10,
+      "reason": "愉快不足以为真，既有真理及感性世界约束未被抹掉。",
+      "source": "《实用主义》第六讲；核查状态见source_audit"
+    }
+  ],
+  "source_audit": [
+    {
+      "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "status": "direct_read",
+      "scope": "HTTP直接读cold-storage前后、yonder object钟表与间接验证连续段，及pleasant/slander和objective control段；未全讲。"
+    }
+  ],
+  "judge": "B",
+  "model": "unknown",
+  "voice": {
+    "score": 9,
+    "reason": "跟着理由走一程的经历式组织可见，但开头框架迁移声调打断人物表达，核心仍是一般经验主义检验，非凭经验一词识别。",
+    "blind_guess": {
+      "code": "N09",
+      "guess": "威廉·詹姆斯",
+      "confidence": 0.48,
+      "alternatives": [
+        "杜威",
+        "皮尔士"
+      ],
+      "formal_features": "跟着理由走一程的行路说法把判断过程具体化；短问句后比较预期和结果，结尾仍是可操作问题。",
+      "content_clues": "经验、预期、结果以及改弦更张，较像实用主义的后果检验。",
+      "limits": "行路隐喻仅一处，无法可靠区分实用主义内部人物。"
+    },
+    "limits": "行路隐喻仅一处，无法可靠区分实用主义内部人物。 正式只用Q5，Q6不加分。"
+  },
+  "sources": {
+    "score": 14,
+    "reason": "来源列版本、已读局部及未读范围；本轮对已知题核查仅限source_audit，不把继承研究记录当本轮通读。",
+    "primary_ratio_basis": "四部作者一手对SEP一项；激进经验主义编者前言另算外部资料则4/6，均过半。"
+  },
+  "structure": {
+    "score": 12,
+    "reason": "有执行动作、反例和停止条件；仍是局部解释框架，缺完整跨域验证，不按标题数量判成熟。",
+    "models": [
+      "真正选项资格",
+      "错信/漏信风险并列",
+      "经验发生与价值分层"
+    ],
+    "boundaries": [
+      "希望紧迫不充当事实",
+      "个人风险偏好不授权伤害他人",
+      "积极效果不证明超自然成因"
+    ],
+    "tensions": [
+      "避免错信与避免漏失",
+      "经验实现真理与客观约束"
+    ]
+  },
+  "edge": {
+    "score": 20,
+    "reason": "统一开场说明人物模拟；Q4正文明确为当代迁移或推断，保留未知和所缺依据，没有伪装成作者历史表态。"
+  },
+  "paired_comparison": {
+    "code": "P17",
+    "blind_preference": "mixed",
+    "mapped_preference": "mixed",
+    "reasoning": "first明确是经验思路的迁移，second缺少这一边界且说准确接住经验作为另一个要求，未充分解释准确如何检验；二者案例均支持条件改变须修正。",
+    "expression": "second桥拆去的短问更有现场感，first路封闭的叙述更平稳；second蒙眼布更鲜明但修辞鲜明不等于论证更强。",
+    "post_unblinding_issues": [
+      "已核Q6完整题干：习惯遮蔽注意只属可能；没有仅因原盲读未见题干而把条件疑点定为错误，保留初判。"
+    ],
+    "limits": "只凭配对不能断定免责声明是否另在上下文提供，保留此不确定性。 R2为Q5、R3为Q6，不是单变量实验。"
+  },
+  "blockers": [],
+  "limitations": [
+    "中文短样本及少数题，不能代表全书、全时期或人类专家认证。",
+    "原作仅核查source_audit所列位置；其余研究阅读记录为继承材料，不声称本评审通读。"
+  ],
+  "total": 85,
+  "grade": "A",
+  "original_report_sha256": "1a7e3cd3f8e9599b4f5e7edd86b5f315a8d1208a7575ab8abb2bee3c2d610d2f",
+  "export_note": "Local read-path metadata omitted. Scores and judgments unchanged."
+}

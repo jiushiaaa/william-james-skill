@@ -1,0 +1,190 @@
+{
+  "id": "william-james-perspective",
+  "date": "2026-10-13",
+  "run": "nuwa-a-20261013",
+  "role": "independent_primary_research_not_judge",
+  "status": "研究补证；不评分，不授予A级，不等于全集完成",
+  "canonical_changed": false,
+  "prior_materials_read": [
+    "SKILL.md",
+    "EXTRACTION.md",
+    "references/research/03-expression-dna.md",
+    "references/research/source-catalog.md",
+    "references/research/10-deep-primary-language.md"
+  ],
+  "name": "威廉·詹姆斯",
+  "coverage": [
+    {
+      "work": "The Will to Believe",
+      "period": "1896/1897",
+      "actual_reading": "继承I140–151、VII–X221–280",
+      "not_read": "全论文集、Clifford原文、通信"
+    },
+    {
+      "work": "Pragmatism",
+      "period": "1907",
+      "actual_reading": "继承II344–364；本轮VI743–771及839–868两段连续阅读；VI20段长度限定样本逐段查看",
+      "not_read": "其余讲次及VI未列间隔并非连续已读"
+    },
+    {
+      "work": "The Varieties of Religious Experience / Essays in Radical Empiricism",
+      "period": "1901–1902 / 1912结集",
+      "actual_reading": "继承宗教经验I68–99；激进经验主义II327–340、IV704–716、V737–744、X1202–1205",
+      "not_read": "完整心理学原理、后期多元论及所列作品全书"
+    }
+  ],
+  "primary_additions": [
+    {
+      "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "locator": "VI网页743–771及839–868；两块各自连续，二者间未连续补齐",
+      "argument": "真观念的运作涉及验证与经验引导；直接验证并非唯一形式，无关当前行动的真理仍可储存；作者反对随心所欲即真。",
+      "boundary": "补强边界及表达，不能把真理理论当错信/漏信风险计算的第二次跨域运行。"
+    }
+  ],
+  "model_audit": [
+    {
+      "name": "真正选项资格",
+      "domain_evidence": [
+        {
+          "domain": "宗教",
+          "url": "https://www.gutenberg.org/cache/epub/26659/pg26659-images.html",
+          "locator": "I及VII–X既读",
+          "evidence": "活的、被迫的、重大的选项"
+        },
+        {
+          "domain": "社会合作/信任",
+          "url": "https://www.gutenberg.org/cache/epub/26659/pg26659-images.html",
+          "locator": "IX既读",
+          "evidence": "某些事实需先行信任才可能出现"
+        }
+      ],
+      "cross_domain_assessment": "原作有两个领域，同篇论证中的局部见证；不等于宗教事实已被合作成功证明。",
+      "generative_power": {
+        "assessment": "可生成何时需等待证据的边界，未独立测试。",
+        "independent_test_completed": false
+      },
+      "distinctiveness": "资格条件限制意志许可，区别于有信念就能成功。",
+      "status": "保留有限程序；未完成三重独立验证"
+    },
+    {
+      "name": "错信/漏信风险",
+      "domain_evidence": [
+        {
+          "domain": "宗教判断",
+          "url": "https://www.gutenberg.org/cache/epub/26659/pg26659-images.html",
+          "locator": "VII–X既读",
+          "evidence": "避免错误与取得真理不是同一命令"
+        },
+        {
+          "domain": "合作机会",
+          "url": "https://www.gutenberg.org/cache/epub/26659/pg26659-images.html",
+          "locator": "IX既读",
+          "evidence": "拒绝先信可能关闭机会"
+        }
+      ],
+      "cross_domain_assessment": "两域共享同篇原理，可有限见证；本条与真正选项的独立性仍须检验，不用新VI凑第二模型证据。",
+      "generative_power": {
+        "assessment": "可显露两种风险，不提供概率数值公式；未独立测试。",
+        "independent_test_completed": false
+      },
+      "distinctiveness": "将漏失可能真理也作为认知风险，并非一般成本收益分析。",
+      "status": "保留有限程序；未完成三重独立验证"
+    },
+    {
+      "name": "发生/意义/价值分问",
+      "domain_evidence": [
+        {
+          "domain": "宗教体验",
+          "url": "https://www.gutenberg.org/cache/epub/621/pg621-images.html",
+          "locator": "I68–99既读",
+          "evidence": "生理发生条件与价值判断不等同"
+        },
+        {
+          "domain": "一般真理/日常行动",
+          "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+          "locator": "VI743–771",
+          "evidence": "观念如何导向经验与当前对象是否有用分问"
+        }
+      ],
+      "cross_domain_assessment": "第二域与原模型有关但不是同一发生—价值区分的完整复现，仍单域较强、跨域不足。",
+      "generative_power": {
+        "assessment": "能避免由起因直接否定价值或由好效果证明神迹；未独立测试。",
+        "independent_test_completed": false
+      },
+      "distinctiveness": "具体经验路径和生活后果受外部控制，不能只说尊重感受。",
+      "status": "保留有限程序；未完成三重独立验证"
+    }
+  ],
+  "tensions": [
+    {
+      "pole_a": "尽力避免错误",
+      "pole_b": "亦不愿因无限等待错失可得到的真理",
+      "primary_support": [
+        {
+          "url": "https://www.gutenberg.org/cache/epub/26659/pg26659-images.html",
+          "locator": "VII–X既读"
+        }
+      ],
+      "kind": "共同要求之间的张力，非简单自相矛盾"
+    },
+    {
+      "pole_a": "真理在经验引导和确认过程中实现",
+      "pole_b": "经验与已有真理又限制愿望，不能任意把愉快说法当真",
+      "primary_support": [
+        {
+          "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+          "locator": "VI753–771与856–868"
+        }
+      ],
+      "kind": "共同要求之间的张力，非简单自相矛盾"
+    }
+  ],
+  "remaining_gaps": [
+    "第三程序缺明确第二域复现；前两条独立性需盲测。",
+    "心理学原理、通信及完整后期著作未补足。",
+    "表达样本只取VI讲30–180词段，不能作为心理学长篇或私人书信的指纹。"
+  ],
+  "expression": {
+    "sample_method": "见可复跑脚本nuwa_a_research_2_sampler.py：固定种子20261013，HTML p序号从0起，规范化空白后取SHA256。通常仅30–180词段，故不是全文均匀抽样；所有最终选中段已在工具输出逐段实际查看。霍克海默为10个合格段的全取；奥斯汀未建立可靠分段。",
+    "sample_count": 20,
+    "metrics": {
+      "words": 1744,
+      "sentences": 87,
+      "question_sentences": 2,
+      "first_person_tokens": 4,
+      "contrast_tokens": 14,
+      "mean_words_per_sentence": 20.046,
+      "question_sentence_ratio": 0.02299,
+      "first_person_per_1000_words": 2.294,
+      "contrast_per_1000_words": 8.028
+    },
+    "source_language": "英语原文",
+    "style_rules": [
+      "从日常例子引入争点，向读者连问两三个具体差别，再压成概念区分。",
+      "采用过程性类比后立即交代哪些经验能支持或阻止它。",
+      "可以有讲演式的直接称呼和轻微讽刺；同时把对方论点讲清。"
+    ],
+    "anti_patterns": [
+      "不把“有用”反复当口号，不模仿原文全大写或现金隐喻。",
+      "不将作者虚构反对者的段落当作者本人立场。",
+      "不以情绪强度、好后果替代外部事实核查。"
+    ],
+    "limitations": [
+      "Length-restricted sampling (30–180 words), not representative of the full work; Horkheimer uses ten eligible original paragraphs without length filtering.",
+      "Sentence boundary regex splits after punctuation; abbreviations/quoted questions may distort counts.",
+      "First-person and contrast are lexical counts, not manually coded rhetorical intentions.",
+      "Analogy density and certainty ratio not measured.",
+      "Electronic transcription not collated with first-edition page images.",
+      "中文输出只迁移高层修辞功能，不把英法词长/词频硬套到中文。",
+      "统计中的第一人称可来自作者构造的示范/虚拟对话，不证明真实自述；所概述的他人观点也不是作者赞同。",
+      "只用于用户明确选用的独立表达附录；默认中性思想，文游禁文风。"
+    ],
+    "sample_records_file": "william-james-perspective-sample.json",
+    "analogy_density": null,
+    "certainty_ratio": null
+  },
+  "access_log": [
+    "web.open成功；requests只读获取用于段落计数；仅保留SHA256、指标和原创笔记，不保存原作全文。"
+  ],
+  "prior_evidence_policy": "标为继承的范围来自已读本地来源目录及10/11记录，不宣称本轮重新阅读所有原作；网页行号为工具当时定位，复核须结合章节/段落指纹。"
+}

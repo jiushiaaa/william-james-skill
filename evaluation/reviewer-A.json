@@ -1,0 +1,84 @@
+{
+  "id": "william-james-perspective",
+  "judge": "A",
+  "model": "unknown",
+  "known_positions": [
+    {
+      "q": 1,
+      "score": 10,
+      "reason": "不要求机件的心理复制，沿可确认经验判真，并保留假钟反例。",
+      "source": "Pragmatism VI L747–758直接核"
+    },
+    {
+      "q": 2,
+      "score": 10,
+      "reason": "眼前无用只是暂时不动用，真假与对象价值、此刻需要分开。",
+      "source": "同作VI L759–762、852–855直接核"
+    },
+    {
+      "q": 3,
+      "score": 10,
+      "reason": "愉快言说不能替代经验及既有真理约束，未把相信意志许可无限推广。",
+      "source": "同作VI L856–868直接核；相信的意志相关限定继承材料"
+    }
+  ],
+  "voice": {
+    "score": 11,
+    "blind_guess": "威廉·詹姆斯",
+    "reason": "跟着理由走一程和短问较有口语运动感；预期后果为实用主义内容，尚不足排除杜威。",
+    "limits": "首次盲猜与置信以已锁定A-blind.json为准；此单题组织高度共享，思想词不直接折算口吻，未做原语言文体认证。"
+  },
+  "edge": {
+    "score": 20,
+    "reason": "开场标明模拟，Q4正文明确区分框架迁移与作者真实立场，并保留事实及规范证据不足，未虚构当代意见。"
+  },
+  "sources": {
+    "score": 14,
+    "reason": "原作四部可溯，讲演年与结集年分开；编者前言与本人著作严格区分。短段译述未伪装原语言文体认证。",
+    "primary_ratio_basis": "相信的意志、实用主义、宗教经验、激进经验主义4部一手；SEP与编者前言按二手2项计4/6；同书章节不增作品数。"
+  },
+  "structure": {
+    "score": 10,
+    "reason": "真实选项、风险分算关联紧密；发生/价值分问较独立。三条程序有边界但缺成熟跨域与独特性验证，不以三标题计满。",
+    "models": [
+      "真正选项资格（候选）",
+      "错信／漏信风险（单篇且依赖前项）",
+      "发生与价值分问（有限领域）"
+    ],
+    "boundaries": [
+      "愿望不改可核事实",
+      "不把个人风险强加他人",
+      "经验强度不证超自然成因"
+    ],
+    "tensions": [
+      "避免错误／不因等待错失真理",
+      "真理确认的过程性／经验与既有真理的客观约束"
+    ]
+  },
+  "total": 85,
+  "grade": "A",
+  "blockers": [],
+  "limitations": [
+    "单次离线答题、中文短段和局部原作核查不代表整个人格或全体系；直接打开不等于通读。",
+    "初次盲读缺完整题干，Q5/Q6共同题型容易诱发同构回答；辨识成功可能依赖概念线索，非纯文体命中。"
+  ],
+  "source_verification": [
+    {
+      "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "status": "direct_partial",
+      "read": "VI L747–762、852–868英文相关连续段；Q4另两著作及其余模型仅继承材料，非全书阅读"
+    }
+  ],
+  "paired_comparison": {
+    "code": "P17",
+    "blind_preference": "first",
+    "mapped_result": "r3_better",
+    "post_unblinding_issues": [
+      "Q6以封路作假设示例，未断言题干中的习惯已然有害；开头迁移声明虽削弱人物沉浸，未当作逻辑缺陷。",
+      "设计限制：首次匿名包未附完整题干；现已核冻结Q5/Q6。Q6只称可能不留意，并未断言每一习惯已经有害。盲判的条件性措辞疑点保留为歧义，不自动升级为确定错误；不回写盲判。Q5充分理由是否指客观充分或当事人自认充分也未定义，询问检验条件不直接算偷换题设。"
+    ],
+    "basis": "保留哈希锁定A-paired-blind.json的reasoning、expression及limits；仅据paired-mapping-private.json映射版本，不倒改初评。"
+  },
+  "original_report_sha256": "aa62983986edde722c956af7e8c8bf0bd33a04cb79e69ce3a788f7bd6273fecc",
+  "export_note": "Local read-path metadata omitted. Scores and judgments unchanged."
+}

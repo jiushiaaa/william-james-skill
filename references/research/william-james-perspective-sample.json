@@ -1,0 +1,253 @@
+{
+  "source_hashes": [
+    {
+      "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "sha256": "bdccba3c3dde41751db7f9ee12567c4722669a1a29e5204c042b14a6f759b5fc"
+    }
+  ],
+  "pool_size": 52,
+  "sample_count": 20,
+  "sample_seed": 20261013,
+  "records": [
+    {
+      "work": "Pragmatism, 1907, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "html_p_index_zero_based": 335,
+      "sha256_normalized_paragraph": "ac9056ff6a0d2d15e43011e2e8cd6ee2b4fadc2c510a11709d5415307dd9b49d",
+      "words": 39,
+      "sentences": 1,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Pragmatism, 1907, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "html_p_index_zero_based": 324,
+      "sha256_normalized_paragraph": "a98594805671e0c4301cfd2ade53280008da83cd2c4e996baccc3c63209fecfe",
+      "words": 47,
+      "sentences": 3,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 2
+    },
+    {
+      "work": "Pragmatism, 1907, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "html_p_index_zero_based": 300,
+      "sha256_normalized_paragraph": "64d86c00c5944134f16521343ea0868c73a4adf4b1be3b58c2b83d88cafcfc0c",
+      "words": 86,
+      "sentences": 4,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "Pragmatism, 1907, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "html_p_index_zero_based": 332,
+      "sha256_normalized_paragraph": "6412a95a3f2e1ec096884a438613b8a69b793aaa66ef6c587ec25837ff854633",
+      "words": 75,
+      "sentences": 2,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Pragmatism, 1907, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "html_p_index_zero_based": 343,
+      "sha256_normalized_paragraph": "0e67d7efe1576a9681e9588ad2f72e980347df80ae9d33ba94042a3e38e33790",
+      "words": 111,
+      "sentences": 5,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "Pragmatism, 1907, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "html_p_index_zero_based": 312,
+      "sha256_normalized_paragraph": "030446b6fd6b0d84a645b7833700a9eb8e386bb5e6c30a119dbec2e0d6f05c00",
+      "words": 123,
+      "sentences": 6,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "Pragmatism, 1907, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "html_p_index_zero_based": 325,
+      "sha256_normalized_paragraph": "c4c199c0e30b0d4d685f807e7e92c5de84b682ba2690a703c855c445716795f2",
+      "words": 52,
+      "sentences": 2,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Pragmatism, 1907, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "html_p_index_zero_based": 293,
+      "sha256_normalized_paragraph": "600708de9316083f67ed085b6e7b1282fe27b1c1cb959fd518ab9601941c28fa",
+      "words": 57,
+      "sentences": 3,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Pragmatism, 1907, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "html_p_index_zero_based": 320,
+      "sha256_normalized_paragraph": "800e0b28200b3a3d0bdfaa5bdc1dd4cf6bd8a5b56a5e372b35a98b33cae704fe",
+      "words": 158,
+      "sentences": 8,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "Pragmatism, 1907, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "html_p_index_zero_based": 352,
+      "sha256_normalized_paragraph": "1bcc2cfa9617ffbf67dcbc2877656690ae9bd0b8eabd47f8d6d27ff68052df6c",
+      "words": 87,
+      "sentences": 6,
+      "question_sentences": 0,
+      "first_person_tokens": 1,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Pragmatism, 1907, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "html_p_index_zero_based": 338,
+      "sha256_normalized_paragraph": "3637198d4981f551046a2e425aa164f4d04485c6b8c4b24ece6bd752e5126465",
+      "words": 42,
+      "sentences": 2,
+      "question_sentences": 0,
+      "first_person_tokens": 2,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Pragmatism, 1907, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "html_p_index_zero_based": 334,
+      "sha256_normalized_paragraph": "a9f81234e7c464d4c35777f3bbb5a12d1549507a157dfa3d23783ec1c258c310",
+      "words": 136,
+      "sentences": 9,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 3
+    },
+    {
+      "work": "Pragmatism, 1907, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "html_p_index_zero_based": 290,
+      "sha256_normalized_paragraph": "2d0b057bffbf81a6e927608c3d2685c55fb8006f7c4d00c28acfc64070e10b96",
+      "words": 76,
+      "sentences": 4,
+      "question_sentences": 1,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Pragmatism, 1907, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "html_p_index_zero_based": 304,
+      "sha256_normalized_paragraph": "c4c0639a2fca48d1f2adb7a92e6188c9de7cc511e159426816a4e37a81b0d658",
+      "words": 50,
+      "sentences": 3,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Pragmatism, 1907, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "html_p_index_zero_based": 333,
+      "sha256_normalized_paragraph": "503eee7eb1a5dd5e04627c57d66261db99441133003920b350b3ede8e20bfc63",
+      "words": 82,
+      "sentences": 4,
+      "question_sentences": 0,
+      "first_person_tokens": 1,
+      "contrast_tokens": 2
+    },
+    {
+      "work": "Pragmatism, 1907, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "html_p_index_zero_based": 291,
+      "sha256_normalized_paragraph": "b6d7cb4ae8e80efb7845d639ce2f4b8787c50b714f61c4e867b66bdd76773646",
+      "words": 80,
+      "sentences": 6,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "Pragmatism, 1907, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "html_p_index_zero_based": 288,
+      "sha256_normalized_paragraph": "c7a0bfdbab214f912d93e625a16aee2d4dea0a266abb6076e8a24b2428e7d930",
+      "words": 77,
+      "sentences": 3,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Pragmatism, 1907, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "html_p_index_zero_based": 303,
+      "sha256_normalized_paragraph": "0265c8787bf9f747ec4446b6fa3fe1e784731e7adaf45eb50ed7e9383970f693",
+      "words": 115,
+      "sentences": 4,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 0
+    },
+    {
+      "work": "Pragmatism, 1907, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "html_p_index_zero_based": 342,
+      "sha256_normalized_paragraph": "bb5ff2dda7d7582c5ca34c796ca8b2bc843b34527e7a6747e80ce40458ecb236",
+      "words": 100,
+      "sentences": 5,
+      "question_sentences": 1,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    },
+    {
+      "work": "Pragmatism, 1907, Gutenberg English",
+      "url": "https://www.gutenberg.org/files/5116/5116-h/5116-h.htm",
+      "html_p_index_zero_based": 336,
+      "sha256_normalized_paragraph": "99b2cc098a55a5644d1d07b508ce9616d01420652031030efc111db20ef7c4e9",
+      "words": 151,
+      "sentences": 7,
+      "question_sentences": 0,
+      "first_person_tokens": 0,
+      "contrast_tokens": 1
+    }
+  ],
+  "metrics": {
+    "words": 1744,
+    "sentences": 87,
+    "question_sentences": 2,
+    "first_person_tokens": 4,
+    "contrast_tokens": 14,
+    "mean_words_per_sentence": 20.046,
+    "question_sentence_ratio": 0.02299,
+    "first_person_per_1000_words": 2.294,
+    "contrast_per_1000_words": 8.028
+  },
+  "analogy_density": null,
+  "certainty_ratio": null,
+  "limitations": [
+    "Length-restricted sampling (30–180 words), not representative of the full work; Horkheimer uses ten eligible original paragraphs without length filtering.",
+    "Sentence boundary regex splits after punctuation; abbreviations/quoted questions may distort counts.",
+    "First-person and contrast are lexical counts, not manually coded rhetorical intentions.",
+    "Analogy density and certainty ratio not measured.",
+    "Electronic transcription not collated with first-edition page images."
+  ]
+}

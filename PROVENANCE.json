@@ -1,0 +1,30 @@
+{
+  "id": "william-james-perspective",
+  "author": "jiushiaaa",
+  "method": "https://github.com/alchaincyf/nuwa-skill",
+  "source_snapshot": "frozen-r3",
+  "snapshot_manifest": {
+    "id": "william-james-perspective",
+    "files": {
+      "questions.json": "0737124f5db15a27dab395e3f11cc5b3669319c4cf3878e048477caae782cfd9",
+      "skill/EXTRACTION.md": "e93f2219e583cef947c338425df5c2b29925808ae69331b331b73d059deb3071",
+      "skill/references/persona-expression.md": "04b498bb77dfe44ffe40f9a3ab21eda0741cd3de66df896a24f45531516b0d14",
+      "skill/references/research/01-writings.md": "5a432f3f7d565a99046bc7513ea525b30cedd44d4aadba67bf3be29bafaf7923",
+      "skill/references/research/02-conversations.md": "88ef929b09d9d6f750ac8c27f7563e095c413cc0819d7b4f0d08d03ce3418e94",
+      "skill/references/research/03-expression-dna.md": "84974628eba0e0254dadfffb943b30d2fe54dceaf1e608015573d3bddcc22ce6",
+      "skill/references/research/04-external-views.md": "e726f1ce67707ce02b1519eca78976e15e017f5ffc6bdd47272e5f9e3d1445bf",
+      "skill/references/research/05-decisions.md": "92cff627e8458ba1acd43fe4e4f099fccb9fbc92d9d7e8a36b8ddfe7ae92e044",
+      "skill/references/research/06-timeline.md": "79429ad3e9f54d4875a18e4ab307774abd78782cf6f865c4a1875216e34ca16d",
+      "skill/references/research/10-deep-primary-language.md": "87e8b12466da9cfe76ead0a4ac2bddfade537c5bb76fe2f24d6b13185df5fb0e",
+      "skill/references/research/12-nuwa-a-evidence.json": "b1c911096a1bf35230067c218c6b5082277242862be18189e86e6e8f7cc33985",
+      "skill/references/research/12-nuwa-a-evidence.md": "1aa4edbce81089b67d2f8190799c10b3bb33a7319566a2e57c7d8049b5b5d4d6",
+      "skill/references/research/13-primary-argument-chains.json": "713ce786dbfbe338569f31d819e182e750714d303ee06b0dc90ae701dc897db0",
+      "skill/references/research/13-primary-argument-chains.md": "23929607c9b4c0ffe43f02884f694ebfb0583b23e79df8c6bb668727381bdf0d",
+      "skill/references/research/source-catalog.md": "ce6146385c8dfdc0eb900e9edec024d5d58d600f68ba9690ae642dcb7f685ec6",
+      "skill/references/research/william-james-perspective-sample.json": "a836facc2de8db212b21095dedf8198bad4487242c866d2a79873315514bff7e",
+      "skill/SKILL.md": "830aa68e0ce546b24a4cabe65bcb048d7b47a0c517080ba49d47bbe504d64541"
+    },
+    "historical_validation_excluded": true
+  },
+  "public_packaging": "Bilingual readmes and usage, attribution, license, sanitized local paths; no score optimization."
+}
